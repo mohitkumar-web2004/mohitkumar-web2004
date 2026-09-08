@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Mohit Kumar
 
-<!--
-**mohitkumar-web2004/mohitkumar-web2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Frontend Developer | MERN Stack Learner 🚀
 
-Here are some ideas to get you started:
+I'm an Engineering Student passionate about web development and creating clean, responsive, and user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* React.js
+* Git & GitHub
+* Currently Learning: Node.js, Express.js & MongoDB
+
+### 🚀 What I'm Working On
+
+* Building frontend projects
+* Learning MERN Stack
+* Improving my problem-solving and coding skills
+* Exploring new web technologies
+
+### 📌 Projects
+
+* 🛒 Amazon Clone — HTML & CSS
+* 🌐 Responsive Portfolio Website
+* 🚀 More projects coming soon...
+
+### 📚 Currently Learning
+
+**MERN Stack Development**
+
+### 📫 Connect With Me
+
+* GitHub: mohitkumar-web2004
+* LinkedIn: https://www.linkedin.com/in/mohit-kumar-thakur-154a7a367
+  
+🌿 Thank for visit my profile.
